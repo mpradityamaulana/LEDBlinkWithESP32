@@ -1,2 +1,2 @@
 # LEDControlWithESP32
-Kontrol LED menggunakan Mikrokontroler ESP32.
+Blink LED menggunakan Mikrokontroler ESP32.
